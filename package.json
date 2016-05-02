@@ -1,13 +1,13 @@
 {
   "name": "pacman-nursery",
   "author": "tolokoban",
-  "description": "Pac-man genetic programming.",
+  "description": "Pac-Man nursery",
   "repository": {
     "type": "git",
     "url": "https://github.com/tolokoban/pacman-nursery.git"
   },
   "homepage": "https://tolokoban.github.io/pacman-nursery",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "scripts": {
     "test": "node node_modules/karma/bin/karma start karma.conf.js",
     "test:dbg": "node --debug-brk node_modules/karma/bin/karma start karma.conf.js",
